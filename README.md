@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Pereira</h1>
+<h1 align="left">Welcome to my Github, I'm Matheus Pereira</h1>
 <p align="left"></p>
 
 - ✨ I’m currently working on with mobile and web development using the java and Kotlin language
