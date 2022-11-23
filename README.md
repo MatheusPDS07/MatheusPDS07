@@ -1,13 +1,13 @@
 <h1 align="left">Welcome to my Github, I'm Matheus Pereira</h1>
 <p align="left"></p>
 
-- ✨ I’m currently working on with mobile and web development using the java and Kotlin language
+- I’m currently working on with mobile and web development using the java and Kotlin language
 
-- ✨ I’m looking to collaborate on mobile, desktop and web development
+- I’m looking to collaborate on mobile, desktop and web development
 
-- ✨ I’m currently working at [GrupoBZ](https://www.grupobz.com.br/)
+- I’m currently working at [GrupoBZ](https://www.grupobz.com.br/)
 
-- ✨ See my Web Portfolio in [lattes.com.br](http://lattes.cnpq.br/2824633747018760)
+- See my Web Portfolio in [lattes.com.br](http://lattes.cnpq.br/2824633747018760)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
