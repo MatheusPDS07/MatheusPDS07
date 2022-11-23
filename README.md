@@ -7,7 +7,7 @@
 
 - ✨ I’m currently working at [GrupoBZ](https://www.grupobz.com.br/)
 
-- ✨ See my Web Portfolio in [mikedev.com.br](https://mikedev.com.br)
+- ✨ See my Web Portfolio in [lattes.com.br](http://lattes.cnpq.br/2824633747018760)
 
 <br><br>
 
