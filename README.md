@@ -26,7 +26,5 @@
 
 ## 📞 &nbsp;Social Links
 
-<a href="https://github.com/MatheusPDS07" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white" target="_blank"/></a>
-<a href = "mailto:matheuspds327@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/matheus-pereira-220215221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/matheuspds327" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"/></a><a href="https://github.com/MatheusPDS07" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white" target="_blank"/></a><a href = "mailto:matheuspds327@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/matheus-pereira-220215221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/5522981066373" target="_blank"><img src="https://img.shields.io/badge/-WHATSAPP-40D031?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
