@@ -8,16 +8,25 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPDS07&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?MatheusPDS07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+  <a href="https://github.com/MatheusPDS07/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=MatheusPDS07&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+    />
+  </a>
+  
+  <a href="https://github.com/MatheusPDS07">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPDS07&layout=compact&theme=radical"
+    />
+  </a>
 
 ## 📞 &nbsp;Social Links
 
-<div>
+<a href="https://github.com/MatheusPDS07" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white" target="_blank"/></a>
 <a href = "mailto:matheuspds327@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheus-pereira-220215221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/5522981066373" target="_blank"><img src="https://img.shields.io/badge/-WHATSAPP-40D031?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
-</div>
