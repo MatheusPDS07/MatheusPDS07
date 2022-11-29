@@ -8,7 +8,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-  <a href="https://github.com/MatheusPDS07/github-readme-stats">
+  <a href="https://github.com/MatheusPDS07">
     <img
       align="center"
       height="165"
