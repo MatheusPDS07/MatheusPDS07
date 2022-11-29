@@ -9,8 +9,9 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div>
-<a href="https://github.com/MatheusPDS07">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime=MatheusPDS07&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime=MatheusPDS07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPDS07&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?MatheusPDS07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 📞 &nbsp;Social Links
