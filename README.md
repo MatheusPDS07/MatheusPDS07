@@ -8,21 +8,9 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-  <a href="https://github.com/MatheusPDS07">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=MatheusPDS07&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
-    />
-  </a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPDS07&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPDS07&layout=compact&bg_color=00000000)](https://github.com/MatheusPDS07/github-readme-stats)
   
-  <a href="https://github.com/MatheusPDS07">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPDS07&layout=compact&theme=radical"
-    />
-  </a>
 
 ## 📞 &nbsp;Social Links
 
