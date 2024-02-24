@@ -2,8 +2,6 @@
 
 #### - I’m looking to collaborate on mobile, desktop and web development
 
-#### - I’m currently working at [GrupoBZ](https://www.grupobz.com.br/)
-
 #### - See my Web Portfolio in [lattes.com.br](http://lattes.cnpq.br/2824633747018760)
 
 ## ⚙️ &nbsp;GitHub Analytics
